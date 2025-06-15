@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "F:\\2-back-end\\8-Bank-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\helpers\\utilhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:helpers\\utilhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\controllers\\bankclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:controllers\\bankclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\enchartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\enchartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\services\\bankclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:services\\bankclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\saveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\saveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\manageusersmenueoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\manageusersmenueoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\chartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\chartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\validations\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:validations\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\helpers\\utilhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:helpers\\utilhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,40 +71,8 @@
       "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:helpers\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\enmanageusersmenueoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\enmanageusersmenueoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\enpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\enpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\constants\\enmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:constants\\enmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\validations\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:validations\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\entities\\bankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:entities\\bankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|f:\\2-back-end\\8-bank-system\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF4B77-458B-4838-8903-1D3E7DFD9BB8}|BankSystem.csproj|solutionrelative:data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +82,242 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\DTOS\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOS\\LoginRequest.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\DTOS\\LoginRequest.cs",
+              "RelativeToolTip": "DTOS\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:02:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:57:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankClientController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Controllers\\BankClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BankClientController.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Controllers\\BankClientController.cs",
+              "RelativeToolTip": "Controllers\\BankClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:56:43.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:55:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveResult.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\SaveResult.cs",
+              "RelativeDocumentMoniker": "Constants\\SaveResult.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\SaveResult.cs",
+              "RelativeToolTip": "Constants\\SaveResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:55:45.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\Permissions.cs",
+              "RelativeDocumentMoniker": "Constants\\Permissions.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\Permissions.cs",
+              "RelativeToolTip": "Constants\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:55:43.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mode.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\Mode.cs",
+              "RelativeDocumentMoniker": "Constants\\Mode.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\Mode.cs",
+              "RelativeToolTip": "Constants\\Mode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:55:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageUsersMenueOptions.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\ManageUsersMenueOptions.cs",
+              "RelativeDocumentMoniker": "Constants\\ManageUsersMenueOptions.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\ManageUsersMenueOptions.cs",
+              "RelativeToolTip": "Constants\\ManageUsersMenueOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:55:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharType.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\CharType.cs",
+              "RelativeDocumentMoniker": "Constants\\CharType.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\CharType.cs",
+              "RelativeToolTip": "Constants\\CharType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:55:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:52:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:52:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Validations\\InputValidation.cs",
+              "RelativeDocumentMoniker": "Validations\\InputValidation.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Validations\\InputValidation.cs",
+              "RelativeToolTip": "Validations\\InputValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:51:54.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Services\\UsersService.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Services\\UsersService.cs",
+              "RelativeToolTip": "Services\\UsersService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:51:46.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankClientService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Services\\BankClientService.cs",
+              "RelativeDocumentMoniker": "Services\\BankClientService.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Services\\BankClientService.cs",
+              "RelativeToolTip": "Services\\BankClientService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv2AAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:51:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UtilHelper.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Helpers\\UtilHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\UtilHelper.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Helpers\\UtilHelper.cs",
+              "RelativeToolTip": "Helpers\\UtilHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:51:05.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Helpers\\StringHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\StringHelper.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Helpers\\StringHelper.cs",
+              "RelativeToolTip": "Helpers\\StringHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:51:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DateHelper.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Helpers\\DateHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DateHelper.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Helpers\\DateHelper.cs",
+              "RelativeToolTip": "Helpers\\DateHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:51:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\IUnitOfWork.cs",
+              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:17:44.733Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
@@ -81,181 +335,12 @@
               "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "enCharType.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\enCharType.cs",
-              "RelativeDocumentMoniker": "Constants\\enCharType.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\enCharType.cs",
-              "RelativeToolTip": "Constants\\enCharType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T23:00:17.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UtilHelper.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Helpers\\UtilHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\UtilHelper.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Helpers\\UtilHelper.cs",
-              "RelativeToolTip": "Helpers\\UtilHelper.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAcwIgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:59:38.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "enPermissions.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\enPermissions.cs",
-              "RelativeDocumentMoniker": "Constants\\enPermissions.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\enPermissions.cs",
-              "RelativeToolTip": "Constants\\enPermissions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:55:23.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA3wBAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:53:43.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DateHelper.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Helpers\\DateHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\DateHelper.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Helpers\\DateHelper.cs",
-              "RelativeToolTip": "Helpers\\DateHelper.cs",
-              "ViewState": "AgIAANMDAAAAAAAAAAAmwPoBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:51:22.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "enManageUsersMenueOptions.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\enManageUsersMenueOptions.cs",
-              "RelativeDocumentMoniker": "Constants\\enManageUsersMenueOptions.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\enManageUsersMenueOptions.cs",
-              "RelativeToolTip": "Constants\\enManageUsersMenueOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:49:30.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Services\\UsersService.cs",
-              "RelativeDocumentMoniker": "Services\\UsersService.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Services\\UsersService.cs",
-              "RelativeToolTip": "Services\\UsersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:47:24.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StringHelper.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Helpers\\StringHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\StringHelper.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Helpers\\StringHelper.cs",
-              "RelativeToolTip": "Helpers\\StringHelper.cs",
-              "ViewState": "AgIAAOEBAAAAAAAAAAAuwO0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:45:46.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InputValidation.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Validations\\InputValidation.cs",
-              "RelativeDocumentMoniker": "Validations\\InputValidation.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Validations\\InputValidation.cs",
-              "RelativeToolTip": "Validations\\InputValidation.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAcwIkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:43:27.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Client.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "Entities\\Client.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Entities\\Client.cs",
-              "RelativeToolTip": "Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:29:45.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BankClient.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Entities\\BankClient.cs",
-              "RelativeDocumentMoniker": "Entities\\BankClient.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Entities\\BankClient.cs",
-              "RelativeToolTip": "Entities\\BankClient.cs",
-              "ViewState": "AgIAAKYCAAAAAAAAAAAcwMYCAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:23:56.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "Entities\\Person.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Entities\\Person.cs",
-              "RelativeToolTip": "Entities\\Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:28:10.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "enMode.cs",
-              "DocumentMoniker": "F:\\2-back-end\\8-Bank-System\\Constants\\enMode.cs",
-              "RelativeDocumentMoniker": "Constants\\enMode.cs",
-              "ToolTip": "F:\\2-back-end\\8-Bank-System\\Constants\\enMode.cs",
-              "RelativeToolTip": "Constants\\enMode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T22:23:28.832Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             }
           ]
         }
